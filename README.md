@@ -2,7 +2,7 @@
 
 <p>
   <a href="https://github.com/HeroCC">
-    <img width="50%" align="right" alt="HeroCC's github stats" src="https://github-readme-stats.vercel.app/api?username=HeroCC&hide_border=true&show_icons=true" />
+    <img width="50%" height="50%" align="right" alt="HeroCC's github stats" src="https://github-readme-stats.vercel.app/api?username=HeroCC&hide_border=true&show_icons=true&count_private=true&include_all_commits=true" />
   </a>
 
 I'm HeroCC, a student, developer, and dev-ops kind of guy.
