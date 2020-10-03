@@ -1,9 +1,13 @@
 ### Ciao! 👋
 
-I'm HeroCC, a student, developer, and dev-ops kind of guy. Feel free to check out my repos or organizations, and if you have any questions please reach out to me with the links on my website. Thanks!
+<p>
+  <a href="https://github.com/HeroCC">
+    <img width="50%" align="right" alt="HeroCC's github stats" src="https://github-readme-stats.vercel.app/api?username=HeroCC&hide_border=true&show_icons=true" />
+  </a>
 
-[![HeroCC's](https://github-readme-stats.vercel.app/api?username=HeroCC&hide_border=true&show_icons=true)](https://github.com/HeroCC)
-
+I'm HeroCC, a student, developer, and dev-ops kind of guy.
+Feel free to check out my repos or organizations, and if you have any questions please reach out to me with the links on my website. Thanks!
+</p>
 <!--
 **HeroCC/HeroCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
