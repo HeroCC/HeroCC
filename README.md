@@ -6,6 +6,7 @@
   </a>
 
 I'm HeroCC, a student, developer, and dev-ops kind of guy.
+Besides standard back-end dev dealings, I enjoy writing automations and CI/CD pipelines, as well as building and operating Docker and Kubernetes clusters.
 Feel free to check out my repos or organizations, and if you have any questions please reach out to me with the links on my website. Thanks!
 </p>
 <!--
